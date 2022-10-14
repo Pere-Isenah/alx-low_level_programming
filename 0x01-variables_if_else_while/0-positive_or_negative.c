@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/** get a code if n is negative positive  **/
+/* get a code if n is negative positive */
 int main(void)
 {
 	int n;
